@@ -165,46 +165,46 @@
 ไปกิน chef table 7900,food,7900
 สั่งอาหารเหนือมากิน 4000,food,4000
 ไปซื้ออาหารใต้ 50,food,50
-ซื้อยาแต้มสิว 500,heatlhcare and cosmetic,500
-ซื้อสกินแคร์ 550,heatlhcare and cosmetic,550
-ค่านวด 350,heatlhcare and cosmetic,350
-มีไปร้านขายยา ซื้อยา 500,heatlhcare and cosmetic,500
-ซื้อพารา 2 แผง 800,heatlhcare and cosmetic,800
-ไปหาหมอจ่าย 1500,heatlhcare and cosmetic,1500
-ไปทำหน้า 2000,heatlhcare and cosmetic,2000
-ไปเลเซอร์ 2750,heatlhcare and cosmetic,2750
-ซื้อยาดม 18 บาท,heatlhcare and cosmetic,18
-ซื้ออุปกรณ์ทำแผล 350,heatlhcare and cosmetic,350
-ซื้อพลาสเตอร์ 200,heatlhcare and cosmetic,200
-ไปตรวจโควิด 0 บาท,heatlhcare and cosmetic,0
-ไปฉีดวัคซีน 500,heatlhcare and cosmetic,500
-ไปตรวจสุขภาพ ฟรี,heatlhcare and cosmetic,0
-ไปตรวจร่างกาย 7500,heatlhcare and cosmetic,7500
-ไปหาหมอสายตา 2000,heatlhcare and cosmetic,2000
-สั่งยาสมุนไพร 500,heatlhcare and cosmetic,500
-ซื้อ mask 2.5 บาท,heatlhcare and cosmetic,2.5
-ซื้อเครื่ื่องสำอางค์ 2500 บาท,heatlhcare and cosmetic,2500
-ซื้อ เจลแลกอฮอลล์ 20 บาท,heatlhcare and cosmetic,20
-ไปตรวจ ATK 233,heatlhcare and cosmetic,233
-ซื้อชุดตรวจ ATK 3456,heatlhcare and cosmetic,3456
-ซื้อยาแก้แพ้ 100,heatlhcare and cosmetic,100
-ซื้อยาแก้เมารถ 100,heatlhcare and cosmetic,100
-ซื้อน้ำเกลือ 100,heatlhcare and cosmetic,100
-ซื้อยาคุมกำเนิด 100,heatlhcare and cosmetic,100
-ซื้อชุดทำแผล 100,heatlhcare and cosmetic,100
-ซื้อยาลดกรด 1800,heatlhcare and cosmetic,1800
-ซื้ออีโน 23457,heatlhcare and cosmetic,23457
-ไปตรวจสุุขภาพประจำปี 3456,heatlhcare and cosmetic,3456
-ไปทำเลสิก 345,heatlhcare and cosmetic,345
-ซื้อโฮมีโอ 2345,heatlhcare and cosmetic,2345
-ซื้อยาแก้ไอ 22222,heatlhcare and cosmetic,22222
-ซื้อรองพื้น 700,heatlhcare and cosmetic,700
-ซื้อ foundation 9000,heatlhcare and cosmetic,9000
-ซื้อแป้งทาหน้า 50,heatlhcare and cosmetic,50
-ซื้อกระดาษซับมัน 400,heatlhcare and cosmetic,400
-ซื้อลิปมัน 577,heatlhcare and cosmetic,577
-ซื้ออายไลน์เนอร์ 789,heatlhcare and cosmetic,789
-ซื้อคอนซีลเลอร์ 678,heatlhcare and cosmetic,678
+ซื้อยาแต้มสิว 500,healthcare and cosmetic,500
+ซื้อสกินแคร์ 550,healthcare and cosmetic,550
+ค่านวด 350,healthcare and cosmetic,350
+มีไปร้านขายยา ซื้อยา 500,healthcare and cosmetic,500
+ซื้อพารา 2 แผง 800,healthcare and cosmetic,800
+ไปหาหมอจ่าย 1500,healthcare and cosmetic,1500
+ไปทำหน้า 2000,healthcare and cosmetic,2000
+ไปเลเซอร์ 2750,healthcare and cosmetic,2750
+ซื้อยาดม 18 บาท,healthcare and cosmetic,18
+ซื้ออุปกรณ์ทำแผล 350,healthcare and cosmetic,350
+ซื้อพลาสเตอร์ 200,healthcare and cosmetic,200
+ไปตรวจโควิด 0 บาท,healthcare and cosmetic,0
+ไปฉีดวัคซีน 500,healthcare and cosmetic,500
+ไปตรวจสุขภาพ ฟรี,healthcare and cosmetic,0
+ไปตรวจร่างกาย 7500,healthcare and cosmetic,7500
+ไปหาหมอสายตา 2000,healthcare and cosmetic,2000
+สั่งยาสมุนไพร 500,healthcare and cosmetic,500
+ซื้อ mask 2.5 บาท,healthcare and cosmetic,2.5
+ซื้อเครื่ื่องสำอางค์ 2500 บาท,healthcare and cosmetic,2500
+ซื้อ เจลแลกอฮอลล์ 20 บาท,healthcare and cosmetic,20
+ไปตรวจ ATK 233,healthcare and cosmetic,233
+ซื้อชุดตรวจ ATK 3456,healthcare and cosmetic,3456
+ซื้อยาแก้แพ้ 100,healthcare and cosmetic,100
+ซื้อยาแก้เมารถ 100,healthcare and cosmetic,100
+ซื้อน้ำเกลือ 100,healthcare and cosmetic,100
+ซื้อยาคุมกำเนิด 100,healthcare and cosmetic,100
+ซื้อชุดทำแผล 100,healthcare and cosmetic,100
+ซื้อยาลดกรด 1800,healthcare and cosmetic,1800
+ซื้ออีโน 23457,healthcare and cosmetic,23457
+ไปตรวจสุุขภาพประจำปี 3456,healthcare and cosmetic,3456
+ไปทำเลสิก 345,healthcare and cosmetic,345
+ซื้อโฮมีโอ 2345,healthcare and cosmetic,2345
+ซื้อยาแก้ไอ 22222,healthcare and cosmetic,22222
+ซื้อรองพื้น 700,healthcare and cosmetic,700
+ซื้อ foundation 9000,healthcare and cosmetic,9000
+ซื้อแป้งทาหน้า 50,healthcare and cosmetic,50
+ซื้อกระดาษซับมัน 400,healthcare and cosmetic,400
+ซื้อลิปมัน 577,healthcare and cosmetic,577
+ซื้ออายไลน์เนอร์ 789,healthcare and cosmetic,789
+ซื้อคอนซีลเลอร์ 678,healthcare and cosmetic,678
 ป่าป๊าให้เงิน 20 บาท,income,20
 พ่อให้เงิน 2000,income,2000
 คุณพ่อให้เงิน 500,income,500
